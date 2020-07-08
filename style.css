@@ -30,17 +30,19 @@ span{
 .card{
     border: none;
     box-shadow: 8px 8px 10px lightgray;
+    border-radius: 5px;
     
 }
 .information{
     padding: 30px 25px;
 }
 .card-img-top{
-    width: 50%;
-    height: 50%;
-    display: block;
-    margin: auto;
-    padding: 20px;
+    width: 70px;
+    
+    
+    
+    padding-top: 20px;
+    
 }
 h5{
     text-align: center;
@@ -48,3 +50,47 @@ h5{
 .card-text{
     text-align: center;
 }
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.buy-course{
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.physics{
+    height: 20px;
+    padding: 30px 25px;
+    
+}
+.online-courses{
+    text-align: center;
+}
+.bottom-icon{
+    width:40px;
+    
+    
+}
+
+
+.green-bg{
+    background-color: #f0fff0;
+}
+img.top-img {
+    width: 300px;
+}
+.date{
+    margin-right:10px ;
+}
+.container.physics {
+    height: 600px;}
+    #text{
+        text-align:center ;
+    }
+    #teach{
+        height: 500px;
+    }
