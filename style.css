@@ -93,4 +93,19 @@ img.top-img {
     }
     #teach{
         height: 500px;
+        padding: 100px;
+    }
+    h6{
+        text-align: center;
+    }
+    .footer-bg{
+        background-color: darkslateblue;
+        color: #fff;
+    }
+    #around{
+        height: 20px;
+        padding: 50px;
+    }
+    .design{
+        text-align: justify;
     }
