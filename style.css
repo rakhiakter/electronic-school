@@ -1,0 +1,44 @@
+#icon{
+    height: 100px;
+    width: 300px;
+}
+#sign-in{
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+h4{
+    color: red;
+}
+span{
+    color: green;
+}
+#paragraph{
+    padding: 20px 40px;
+}
+.get-started{
+    background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
+    color: #fff;
+    border: none;
+    padding: 12px 40px;
+    border-radius: 15px;
+    cursor: pointer; 
+}
+.card{
+    border: none;
+    box-shadow: 8px 8px 10px lightgray;
+    
+}
+.information{
+    padding: 30px 25px;
+}
+.card-img-top{
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
