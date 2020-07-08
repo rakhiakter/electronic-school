@@ -130,7 +130,12 @@ h6 {
 #testimonial {
     height: 100px;
 }
-
-.container-sm {
-    height: 1200px !important;
+@media (max-width: 500px){
+    .container-sm {
+        height: 1200px !important;
+    }
 }
+#git-hub{
+    text-align: center;
+}
+
