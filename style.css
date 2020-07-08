@@ -42,3 +42,9 @@ span{
     margin: auto;
     padding: 20px;
 }
+h5{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
