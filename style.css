@@ -1,8 +1,9 @@
-#icon{
+#icon {
     height: 100px;
     width: 300px;
 }
-#sign-in{
+
+#sign-in {
     background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
     color: #fff;
     border: none;
@@ -10,51 +11,57 @@
     border-radius: 8px;
     cursor: pointer;
 }
-h4{
+
+h4 {
     color: red;
 }
-span{
+
+span {
     color: green;
 }
-#paragraph{
+
+#paragraph {
     padding: 20px 40px;
 }
-.get-started{
+
+.get-started {
     background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
     color: #fff;
     border: none;
     padding: 12px 40px;
     border-radius: 15px;
-    cursor: pointer; 
+    cursor: pointer;
 }
-.card{
+
+.card {
     border: none;
     box-shadow: 8px 8px 10px lightgray;
     border-radius: 5px;
-    
 }
-.information{
+
+.information {
     padding: 30px 25px;
 }
-.card-img-top{
+
+.card-img-top {
     width: 70px;
-    
-    
-    
     padding-top: 20px;
-    
 }
-h5{
+
+h5 {
     text-align: center;
 }
-.card-text{
+
+.card-text {
     text-align: center;
 }
-.card-footer{
+
+.card-footer {
     background-color: white;
     border-top: none;
 }
-.buy-course{
+
+.buy-course {
     background-image: linear-gradient(to bottom, rgb(52, 180, 52) 0%, rgb(56, 207, 56) 100%);
     color: #fff;
     border: none;
@@ -62,50 +69,68 @@ h5{
     border-radius: 8px;
     cursor: pointer;
 }
-.physics{
+
+.physics {
     height: 20px;
     padding: 30px 25px;
-    
 }
-.online-courses{
+
+.online-courses {
     text-align: center;
 }
-.bottom-icon{
-    width:40px;
-    
-    
+
+.bottom-icon {
+    width: 40px;
 }
 
-
-.green-bg{
+.green-bg {
     background-color: #f0fff0;
 }
+
 img.top-img {
     width: 300px;
 }
-.date{
-    margin-right:10px ;
+
+.date {
+    margin-right: 10px;
 }
+
 .container.physics {
-    height: 600px;}
-    #text{
-        text-align:center ;
-    }
-    #teach{
-        height: 500px;
-        padding: 100px;
-    }
-    h6{
-        text-align: center;
-    }
-    .footer-bg{
-        background-color: darkslateblue;
-        color: #fff;
-    }
-    #around{
-        height: 20px;
-        padding: 50px;
-    }
-    .design{
-        text-align: justify;
-    }
+    height: 600px;
+}
+
+#text {
+    text-align: center;
+}
+
+#teach {
+    height: 500px;
+    padding: 100px;
+}
+
+h6 {
+    text-align: center;
+}
+
+.footer-bg {
+    background-color: darkslateblue;
+    color: #fff;
+    padding-top: 50px;
+}
+
+#around {
+    height: 20px;
+    padding: 50px;
+}
+
+.design {
+    text-align: justify;
+}
+
+#testimonial {
+    height: 100px;
+}
+
+.container-sm {
+    height: 1200px !important;
+}
